@@ -146,13 +146,3 @@ The dataset includes information on:
 This analysis provides a **data-driven overview** of IMDb movies across genres, decades, and runtimes.
 The combination of **SQL, Python, and Power BI** demonstrates complete end-to-end data analysis —
 from raw data extraction and cleaning → to querying → to visualization and storytelling.
-
-**Lovey Galav’s IMDb Project** showcases:
-
-* Strong analytical reasoning
-* Data storytelling through visuals
-* Tool mastery (SQL, Python, Power BI, Statistics)
-
-
-
-#
