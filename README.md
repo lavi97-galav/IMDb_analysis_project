@@ -48,7 +48,7 @@ Key objectives:
 |------------|-------------|
 | `finalclean_imbd.ipynb` | Python notebook for data cleaning and exploratory analysis |
 | `imbd_queries.sql` | SQL script containing all major analytical queries |
-| `lavi (1).pbix` | Power BI dashboard file |
+| `lavi.pbix` | Power BI dashboard file |
 | `understanding.md` | Full analytical report describing methodology and results |
 | `README.md` | Main GitHub documentation file |
 
